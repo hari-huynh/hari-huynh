@@ -11,7 +11,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,r,rust,git,github,sklearn,opencv,pytorch&perline=5" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,r,julia,git,github,sklearn,opencv,pytorch&perline=5" />
   </a>
 </p>
 
