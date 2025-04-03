@@ -67,15 +67,6 @@ A framework for efficient fine-tuning of LLMs using techniques like LoRA, QLoRA,
 
 Comprehensive evaluation suite for benchmarking LLMs across various dimensions including factuality, harmlessness, helpfulness, and domain-specific capabilities.
 
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Optimizing LLM Inference: Techniques for Reducing Latency and Cost](https://your-blog.com/optimizing-llm-inference)
-- [Beyond Embeddings: Advanced Retrieval Techniques for RAG Systems](https://your-blog.com/advanced-retrieval-techniques)
-- [The State of Multimodal AI: Bridging Text, Vision, and Audio](https://your-blog.com/multimodal-ai-state)
-- [Implementing Efficient Attention Mechanisms in Transformer Models](https://your-blog.com/efficient-attention-mechanisms)
-<!-- BLOG-POST-LIST:END -->
-
 ## 🌟 Interactive AI Demo
 
 <div align="center">
@@ -101,7 +92,3 @@ Comprehensive evaluation suite for benchmarking LLMs across various dimensions i
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-## 👨‍💻 Contribution Activity
-
-![GitHub Snake animation](https://github.com/hari-huynh/hari-huynh/blob/output/github-contribution-grid-snake.svg)
